@@ -1,0 +1,15 @@
+{
+  "name": "darkmes/task_3",
+  "authors": [
+    {
+      "name": "Kirill Sadovnikov",
+      "email": "d4rkm3z@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~7.1"
+  },
+  "autoload": {
+    "psr-4": { "": "" }
+  }
+}
